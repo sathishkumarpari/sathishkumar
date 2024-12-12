@@ -1,2 +1,7 @@
+The end-to-end machine learning project for fire alarm prediction was successfully implemented, including hyperparameter tuning to optimize model performance. However, the project faced challenges due to insufficient data availability, which impacted the model's ability to generalize effectively. To address this, sample data points were generated to augment the dataset, but this approach did not yield the desired accuracy for predictions. The results highlight the critical need for a larger, high-quality dataset to improve model reliability and prediction accuracy in future iterations.
+
+
+
+
 The Azure Databricks pipeline successfully ingested raw data into the Bronze layer, ensuring data integrity and traceability. The Silver layer enhanced data quality by cleansing, standardizing, and deduplicating it, creating reliable datasets. Finally, the Gold layer provided curated, aggregated data optimized for business analytics, enabling faster insights and improved decision-making. This streamlined workflow ensures efficiency, scalability, and high-quality data for all stakeholders.
 
